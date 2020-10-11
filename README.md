@@ -1,1 +1,0 @@
-# Syntax-dan-Operator-Dasar
